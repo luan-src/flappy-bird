@@ -3,9 +3,9 @@
 }
 
 footer{
-    font-family: 'Pixel';
+    font-family:'Courier New', Courier, monospace;
     font-size: 20px;
-    color: rgb(0, 100, 201);
+    color: rgb(16, 119, 223);
 }
 
 @font-face {
